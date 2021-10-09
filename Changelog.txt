@@ -1,0 +1,13 @@
+PoP-WW-KB-Archive
+--+ CHANGELOG +--
+
+v0.01 | 09.10.2021
+* Adjusted GA layout
+* Created PA logo
+* Wrote placeholder list
+* Created graphic pattern
+* PA icon
+* Insert Copyright
+* README & CHANGELOG 
+* No subpages yet
+- flosha 
