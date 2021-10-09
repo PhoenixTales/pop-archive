@@ -6,7 +6,7 @@ v0.01 | 09.10.2021
 * Created PA logo
 * Wrote placeholder list
 * Created graphic pattern
-* PA icon
+* Added PA icon
 * Insert Copyright
 * README & CHANGELOG 
 * No subpages yet
